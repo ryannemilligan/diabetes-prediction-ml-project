@@ -52,6 +52,22 @@ This project uses the Pima Indians Diabetes Dataset to build a predictive model 
 
 ---
 
+## 📈 Visualizations
+
+### 1. Age Distribution by Diabetes Outcome
+![Age by Diabetes](age-by-diabetes.png)
+- This boxplot highlights age distribution across diabetes outcomes. Individuals diagnosed with diabetes tend to be older on average.
+
+### 2. Class Distribution Before and After SMOTE
+![Before and After SMOTE](before-after-smote.png)
+- SMOTE was applied to address class imbalance. After SMOTE, the dataset has equal representation of diabetic and non-diabetic cases, which helps improve model performance.
+
+### 3. Feature Importance in Diabetes Prediction
+![Feature Importance](predicting-diabetes.png)
+- Glucose level was the most important feature in predicting diabetes, followed by BMI and Age.
+
+---
+
 ## 📌 Author
 
 **Ryanne Milligan**  
