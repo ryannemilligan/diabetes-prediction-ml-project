@@ -64,4 +64,6 @@ _Passionate about using AI to improve patient care and health outcomes_
 
 Feel free to reach out or collaborate on LinkedIn or GitHub if you're working on healthcare, AI, or informatics projects!
 
+[LinkedIn – Ryanne Milligan](https://www.linkedin.com/in/ryannemilligan/)
+
 
