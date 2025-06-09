@@ -55,16 +55,28 @@ This project uses the Pima Indians Diabetes Dataset to build a predictive model 
 ## 📈 Visualizations
 
 ### 1. Age Distribution by Diabetes Outcome
-![Age by Diabetes](age-by-diabetes.png)
+![Age by Diabetes](images/age-by-diabetes)
 - This boxplot highlights age distribution across diabetes outcomes. Individuals diagnosed with diabetes tend to be older on average.
 
 ### 2. Class Distribution Before and After SMOTE
-![Before and After SMOTE](before-after-smote.png)
+![Before and After SMOTE](images/before-after-smote)
 - SMOTE was applied to address class imbalance. After SMOTE, the dataset has equal representation of diabetic and non-diabetic cases, which helps improve model performance.
 
 ### 3. Feature Importance in Diabetes Prediction
-![Feature Importance](predicting-diabetes.png)
+![Feature Importance](images/prediction-diabetes)
 - Glucose level was the most important feature in predicting diabetes, followed by BMI and Age.
+
+  ### 4. Confusion Matrix
+![Confusion Matrix](images/confusion-matrix)
+- This confusion matrix visually summarizes the performance of a classification model by showing the counts of correct and incorrect predictions for "Non-Diabetic" and "Diabetic" cases.
+
+  ### 5. Diabetes & Pregnancy
+![Pregnancies](images/pregnancies)
+- This histogram visually represents the frequency distribution of the 'Pregnancies' variable, indicating how many times each number of pregnancies occurs in the dataset.
+
+  ### 6. ROC Curve
+![ROC Curve](images/ROC-curve)
+- This ROC Curve, with an AUC of 0.81, demonstrates the model's strong ability to correctly classify individuals as diabetic or non-diabetic within the project's dataset.
 
 ---
 
