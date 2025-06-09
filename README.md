@@ -12,6 +12,8 @@ This project uses the Pima Indians Diabetes Dataset to build a predictive model 
 - Trained and evaluated multiple machine learning models
 - Visualized performance using confusion matrix and classification report
 
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dGyXz31qiStvoRNedKlI0ASgNXck0A3t?usp=sharing)
+
 ---
 
 ## 🛠️ Tech Stack
